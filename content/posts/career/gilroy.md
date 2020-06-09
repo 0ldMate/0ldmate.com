@@ -1,5 +1,6 @@
 ---
 title: "Gilroy Catholic College"
+type: "archive"
 ---
 
 ## Information Technology Support

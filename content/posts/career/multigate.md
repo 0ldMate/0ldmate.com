@@ -1,5 +1,6 @@
 ---
 title: "Multigate Medical Products"
+type: "archive"
 ---
 
 ## IT Support Officer
