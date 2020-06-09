@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automation on 0ldMate&#39;s Page</title>
+    
+    
+    
+    <link>/tags/automation/</link>
+    <description>Recent content in automation on 0ldMate&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ProjectModular - Automate Tasks with PowerShell</title>
+      <link>/posts/tech/projectmodular/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tech/projectmodular/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          What is ProjectModular? ProjectModular is a set of scripts written in PowerShell that was created to automate basic sysadmin/support jobs. It was designed to be a super user friendly experience for those who do not have a lot of PowerShell experience. To do that, most variables call back to a central file that can be edited after download.
+Who can use ProjectModular? ProjectModular has been written so that anyone (with or without PowerShell knowledge) could pick it up, change a few fields and use it in their organisation to begin automating some tasks.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

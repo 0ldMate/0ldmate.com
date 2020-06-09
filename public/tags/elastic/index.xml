@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elastic on 0ldMate&#39;s Page</title>
+    
+    
+    
+    <link>/tags/elastic/</link>
+    <description>Recent content in elastic on 0ldMate&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/elastic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elastic Stack - How you can use it to assist your Incident Response</title>
+      <link>/posts/tech/elastic-stack-how-you-can-use-it-to-assist-your-in-f31f7a3f9a8a42c0b860523f4b79cc68/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tech/elastic-stack-how-you-can-use-it-to-assist-your-in-f31f7a3f9a8a42c0b860523f4b79cc68/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          The Elastic Stack (formerly the ELK Stack) is composed of 4 core open source tools that create the stack, these tools combined allow for data to be taken from any source securely and used to search, analyse and visualise in real time. The core components consist of:
+ Elasticsearch is a distributed database that is easily searchable Logstash is a data ingestor that is used to filter and customise your data Kibana is the user interface that is used to analyse and visualise data in real time Beats are the simple, lightweight and quick data shipping programs  What can Elastic Stack be used for?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
