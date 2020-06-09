@@ -1,60 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>0ldMate&#39;s Page</title>
-    
-    
-    
-    <link>/posts/career/</link>
-    <description>Recent content on 0ldMate&#39;s Page</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/posts/career/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Gilroy Catholic College</title>
-      <link>/posts/career/gilroy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/career/gilroy/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Information Technology Support Over the period of two years I was one of three IT support staff at Gilroy College whilst I was completing a Certificate IV in Information Technology Networking at TAFE. My role was mainly focused on providing support to over 1,200 staff and students on site. Support ranged from simple computer issues and printer problems to server and system updates.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>0ldMate's Page</title><link>/posts/career/</link><description>Recent content on 0ldMate's Page</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/posts/career/index.xml" rel="self" type="application/rss+xml"/><item><title>Gilroy Catholic College</title><link>/posts/career/gilroy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/career/gilroy/</guid><description>
+Information Technology Support Over the period of two years I was one of three IT support staff at Gilroy College whilst I was completing a Certificate IV in Information Technology Networking at TAFE. My role was mainly focused on providing support to over 1,200 staff and students on site. Support ranged from simple computer issues and printer problems to server and system updates.
 Achievements Trainee of the Year 2016
-JIRA Helpdesk System
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Multigate Medical Products</title>
-      <link>/posts/career/multigate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/career/multigate/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          IT Support Officer My main role was to provide IT support to the 100+ onsite staff and 40+ offsite staff for both Multigate and their sister company MDevices. Although a lot of my role was general support issues, there was a lot of flexibility for me to complete tasks that a System Administrator would otherwise complete.
-Security Administrator After being in my role for over a year I was promoted to my new role which consisted of my previous work along with some additional security responsibilities (firewall configuration, Active Directory permissions, etc.
-          
-        
-        </description>
-    </item>
-    
-  </channel>
-</rss>
+JIRA Helpdesk System</description></item><item><title>Multigate Medical Products</title><link>/posts/career/multigate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/career/multigate/</guid><description>
+IT Support Officer My main role was to provide IT support to the 100+ onsite staff and 40+ offsite staff for both Multigate and their sister company MDevices. Although a lot of my role was general support issues, there was a lot of flexibility for me to complete tasks that a System Administrator would otherwise complete.
+Security Administrator After being in my role for over a year I was promoted to my new role which consisted of my previous work along with some additional security responsibilities (firewall configuration, Active Directory permissions, etc.</description></item></channel></rss>
