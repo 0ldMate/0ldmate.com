@@ -1,0 +1,57 @@
++++
+title = "Career"
+layout = "default"
+type = "single"
++++
+
+## Experience
+
+### Pure Security
+
+**Associate Security Consultant**
+(March 2020 - Present)
+
+
+### Multigate Medical Products
+
+[**Security Administrator**](../posts/career/multigate)
+(September 2018 - March 2020)
+
+[**IT Support Officer**](../posts/career/multigate)
+(July 2017 - September 2018)
+
+### Gilroy Catholic College
+
+[**Information Technology Support**](../posts/career/gilroy)
+(December 2014 - December 2016)
+
+
+## Education
+
+**Offensive Security Certified Professional** 
+(June 2020)
+
+**Certificate IV, Information Technology Networking**
+(December 2016)
+
+
+## Projects
+
+[**Project Modular**](../posts/tech/projectmodular)
+
+A set of PowerShell tools created to assist in automating basic system administrator tasks.
+
+**Elastic Cash**
+
+An Elastic Stack set up that can be parsed personal financial data to be manipulated and displayed in a friendly manner.
+
+
+## Volunteering
+
+Fortnightly plasma donor at Lifeblood Australia
+
+RSPCA Bushfire Appeal Fundraiser Organiser
+
+RED25 blood donor organiser
+
+Variety "Hair with Heart" donor
