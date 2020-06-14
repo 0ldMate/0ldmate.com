@@ -2,9 +2,7 @@
 title: "Elastic Stack - How you can use it to assist your Incident Response"
 date: "2020-06-06"
 tags: ["elastic","blueteam"]
-
 ---
-
 The Elastic Stack (formerly the ELK Stack) is composed of 4 core open source tools that create the stack, these tools combined allow for data to be taken from any source securely and used to search, analyse and visualise in real time. The core components consist of:
 
 - Elasticsearch is a distributed database that is easily searchable
