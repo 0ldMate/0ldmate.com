@@ -37,11 +37,13 @@ type = "single"
 
 ## Projects
 
-[**Project Modular**]("../posts/tech/projectmodularElastic CTF a2f4ee2043f5426e9233a5b318796535")
+[**Project Modular**](../posts/tech/projectmodular)
 
 A set of PowerShell tools created to assist in automating basic system administrator tasks.
 
-[**Elastic CTF**](../posts/tech/
+[**Elastic CTF**](../posts/tech/elastic-ctf-a2f4ee2043f5426e9233a5b318796535)
+
+A Capture the Flag challenge designed within the Elastic Stack to teach players about the Kibana UI.
 
 **Elastic Cash**
 
