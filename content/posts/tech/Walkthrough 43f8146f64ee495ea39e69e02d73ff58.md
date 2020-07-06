@@ -6,7 +6,7 @@ tags: ["elastic","blueteam"]
 
 This is a walkthrough for the Elastic Stack CTF scenario that was run for the [Sectalks Ninja Night 0x08 (9th)](https://www.meetup.com/en-AU/SecTalks/events/271153250/).
 
-The CTF is still live and is available [HERE](http://elasticctf.0ldmate.com:8000/) for the next few days. Feel free to hop in and give it a go.
+The CTF is available to be spun up from my repository, for more information visit [HERE](../elastic-ctf-a2f4ee2043f5426e9233a5b318796535). Feel free to spin it up and give it a go.
 
 Scenario:
 
