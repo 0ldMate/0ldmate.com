@@ -8,6 +8,16 @@ This is a walkthrough for the Elastic Stack CTF scenario that was run for the [S
 
 The CTF is still live and is available [HERE](http://elasticctf.0ldmate.com:8000/) for the next few days. Feel free to hop in and give it a go.
 
+Scenario:
+
+> Overnight we've had an attack on our network, we have two devices in the cloud and it appears both have been compromised.
+> The attack appears to have taken place on the 25th of May between 9pm and 11:30pm.
+> Our network is composed of one box that is front facing with an SSH port open to the web and a second server behind it running an old Elastic Stack.
+> We believe the ssh password was bruteforced and then exploited the vulnerable elastic stack version.
+> Both boxes have logs sent to our new Elastic Stack.
+> Please recover the information requested in these challenges so we can piece together what happened.
+
+
 1. What IP did the bruteforce attack come from?
 
 Select the SIEM Menu > Hosts > Authentications and set the time frame given in the scenario, the first few challenges can be solved within this menu.
