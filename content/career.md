@@ -37,9 +37,11 @@ type = "single"
 
 ## Projects
 
-[**Project Modular**](../posts/tech/projectmodular)
+[**Project Modular**]("../posts/tech/projectmodularElastic CTF a2f4ee2043f5426e9233a5b318796535")
 
 A set of PowerShell tools created to assist in automating basic system administrator tasks.
+
+[**Elastic CTF**](../posts/tech/
 
 **Elastic Cash**
 
