@@ -22,7 +22,7 @@ There are many different shapes and sizes of mechanical keyboards, they can rang
 
 This is one of more common smaller keyboard size, normally consisting of mainly letters and modifiers on the board.
 
-![https://i.imgur.com/9SOF5vx.jpg](https://i.imgur.com/9SOF5vx.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%202.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%202.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/8xaz76/minivans_can_drift_too/](https://www.reddit.com/r/MechanicalKeyboards/comments/8xaz76/minivans_can_drift_too/)
 
@@ -30,7 +30,7 @@ This is one of more common smaller keyboard size, normally consisting of mainly 
 
 This is probably the most common size of mechanical keyboard within the community, has a small form factor but still has most of the keys you're use to seeing.
 
-![https://i.redd.it/p1ojqq741b751.jpg](https://i.redd.it/p1ojqq741b751.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%203.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%203.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/hgdzul/red_nintendo_inspired_60/](https://www.reddit.com/r/MechanicalKeyboards/comments/hgdzul/red_nintendo_inspired_60/)
 
@@ -46,7 +46,7 @@ This is almost as common as the 60% size, there is a very small difference, this
 
 TLK is the full size board you're use to but without the numpad. This is normally used by those who don't use the numpad and like the additional space.
 
-![https://i.redd.it/r0q5txrkh9i51.jpg](https://i.redd.it/r0q5txrkh9i51.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%204.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%204.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/idnq16/first_tkl_first_love/](https://www.reddit.com/r/MechanicalKeyboards/comments/idnq16/first_tkl_first_love/)
 
@@ -66,7 +66,7 @@ These sizes don't include the incredible amount of different designs and styles 
 
 The ortholinear layout is a design where the keys are not in the traditional staggered format but are in a more uniform set of rows and columns.
 
-![https://i.redd.it/cu45h1y58xa51.jpg](https://i.redd.it/cu45h1y58xa51.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%205.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%205.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/hre4do/where_my_ortho_crew_at/](https://www.reddit.com/r/MechanicalKeyboards/comments/hre4do/where_my_ortho_crew_at/)
 
@@ -74,7 +74,7 @@ The ortholinear layout is a design where the keys are not in the traditional sta
 
 Split layout is a design where they keyboard is split in some way
 
-![https://i.redd.it/rxwhlui1bv951.jpg](https://i.redd.it/rxwhlui1bv951.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%206.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%206.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/ho7feo/my_first_mechanical_keyboard_split_keyboard_ortho/](https://www.reddit.com/r/MechanicalKeyboards/comments/ho7feo/my_first_mechanical_keyboard_split_keyboard_ortho/)
 
@@ -82,7 +82,7 @@ Split layout is a design where they keyboard is split in some way
 
 Ergonomic keyboards are designed to minimise risk of injury or harm when using them.
 
-![https://i.redd.it/llgb6temp1d51.jpg](https://i.redd.it/llgb6temp1d51.jpg)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%207.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%207.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/hxria6/my_weirdo_fruity_ergo_milkshake/](https://www.reddit.com/r/MechanicalKeyboards/comments/hxria6/my_weirdo_fruity_ergo_milkshake/)
 
@@ -90,7 +90,7 @@ Ergonomic keyboards are designed to minimise risk of injury or harm when using t
 
 Left Hand Numpad design simply has a numpad, just on the other side to where it normally is. This is often added onto different sized boards.
 
-![https://i.redd.it/cqnq0qxy4qw31.png](https://i.redd.it/cqnq0qxy4qw31.png)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.png](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.png)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/drn0t8/ext65_why_arent_all_numpads_on_the_left/](https://www.reddit.com/r/MechanicalKeyboards/comments/drn0t8/ext65_why_arent_all_numpads_on_the_left/)
 
