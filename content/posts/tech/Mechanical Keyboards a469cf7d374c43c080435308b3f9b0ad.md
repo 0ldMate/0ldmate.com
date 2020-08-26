@@ -90,7 +90,7 @@ Ergonomic keyboards are designed to minimise risk of injury or harm when using t
 
 Left Hand Numpad design simply has a numpad, just on the other side to where it normally is. This is often added onto different sized boards.
 
-![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.png](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.png)
+![/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.jpg](/img/Mechanical%20Keyboards%20a469cf7d374c43c080435308b3f9b0ad/Untitled%208.jpg)
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/drn0t8/ext65_why_arent_all_numpads_on_the_left/](https://www.reddit.com/r/MechanicalKeyboards/comments/drn0t8/ext65_why_arent_all_numpads_on_the_left/)
 
