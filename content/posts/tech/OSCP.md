@@ -74,7 +74,7 @@ I wrote up the report over the next day and submitted it and after several days 
 
 Overall, the experience was very unique and interesting. It really put me in the hacking mindset and made it really easy to fall in love with offensive security. Some times it does feel like it's more of a CTF than anything, but that's just part of the course. It exposed me to a lot of different exploits and methodologies that are a great base for knowledge to be then built on. A big part of my journey was possible because of how much I wanted to move jobs. I really disliked the work I was in and looked at the OSCP as the only way I could get into the line of work I wanted to get into. This made me put in a lot of hours after work and on weekends that lead me to achieving this certiifcate.
 
-Tips
+##Tips
 
 Try working on this before work rather than after if you're struggling to get it done - I went into work at least an hour early everyday when training
 

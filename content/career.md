@@ -28,7 +28,7 @@ type = "single"
 
 ## Education
 
-[**Offensive Security Certified Professional**](../posts/tech/OSCP)
+[**Offensive Security Certified Professional**](../posts/tech/oscp)
 (June 2020)
 
 **Certificate IV, Information Technology Networking**
