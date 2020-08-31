@@ -45,7 +45,7 @@ A set of PowerShell tools created to assist in automating basic system administr
 
 A Capture the Flag challenge designed within the Elastic Stack to teach players about the Kibana UI.
 
-**Elastic Cash**
+[**Elastic Cash**](../posts/finance/elastic-cash-tracking-finances-in-the-elastic-st-963d8f2810554c15a7f88b1121ab27f4)
 
 An Elastic Stack set up that can be parsed personal financial data to be manipulated and displayed in a friendly manner.
 
