@@ -31,8 +31,7 @@ Both of these production methods don't encourage holding onto stock as they're n
 
 When you're looking to build a board, the first thing you want to think about is the size and shape you're after. This will help you narrow down what your options are. Within the mechanical keyboard community there are definitely a few favourite sizes which means if you're after those sizes, you'll have a large selection to choose from, and if you want something that isn't popular, you might have a hard time finding your desired style. Some of the common designs include 60%, 65%, 40% and TKL (if you don't understand what any of that means, check out **[my previous blog](https://www.0ldmate.com/posts/tech/mechanical-keyboards-a469cf7d374c43c080435308b3f9b0ad/)** about sizes. If you're after something that is different or left field, you may just be limited to what's on offer.
 
-![/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%203.png](/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%203.png)
-
+{{< image src="/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%203.png" position="center">}}
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/ipqbn9/sad_function_row_noises/](https://www.reddit.com/r/MechanicalKeyboards/comments/ipqbn9/sad_function_row_noises/)
 
 Once you know what size you're after, it's time to spend some time looking around. If you're after a common style there may be some keyboard kits available for purchase on sites like kbdfans or Aliexpress. These sites normally have some stock of some ready to order kits. These two sites are probably the most common places to get an on-demand board that doesn't have a release date. If you've found something that is to your liking great! However, if you're still not finding anything you like the look of or want to see what else is out there, your best bet to to check out the following places:
@@ -58,7 +57,7 @@ Now, after you've spent more time looking at keyboards than you ever thought you
 
 - Plate - the plate is what holds the switches in the right place on the PCB
 
-![/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%206.png](/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%206.png)
+{{< image src="/img/Build%20a%20Board%204b57dc618dda4016b8050f05ff1bc20e/Untitled%206.png" position="center">}}
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/fcv1lz/4mm_60_brass_plate/](https://www.reddit.com/r/MechanicalKeyboards/comments/fcv1lz/4mm_60_brass_plate/)
 
