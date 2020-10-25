@@ -4,7 +4,7 @@ date: "2020-08-31"
 tags: ["elastic","finances"]
 ---
 
-> I am not a financial advisor, this is not advice. This post is just for fun. For further advice, please seek a professional fiancial advisor. Don't sue me.
+> I am not a financial advisor, this is not advice. This post is just for fun. For further advice, please seek a professional financial advisor. Don't sue me.
 
 Tracking your personal finances is a great thing to do when budgeting and saving so you can see exactly where your money is going. I found that when I don't track my spending I make a lot of assumptions of where my money is spent and it is vastly different to where the money is actually going. I would recommend tracking spending to anyone who is looking to get their finances undercontrol and attempting to save more.
 
@@ -76,6 +76,8 @@ These all are very small purchases that are normally written off at the time as 
 On your work you grab a $5 coffee from your local cafe. For morning tea you grab a $4 muffin from the work cafe. For lunch you go to the local burger place because they offer a deal for $15. After lunch you need a bit of a sugar rush so you grab a $3 chocolate bar from the vending machine. Individually these purchases appear to be minimal and won't make a big impact in your overall savings, right? 
 
 Assuming this a daily ritual on work days you're spending roughly $540 a month on micro spending.
+
+More information on microspending **[HERE](https://www.0ldmate.com/posts/finance/Microspending 38099ad5ed4d4caeb563aa46bbe76a7a/)**
 
 ### Conclusion
 
