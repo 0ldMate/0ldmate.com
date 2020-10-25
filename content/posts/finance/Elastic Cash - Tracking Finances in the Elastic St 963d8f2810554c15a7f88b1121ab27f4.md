@@ -77,7 +77,7 @@ On your work you grab a $5 coffee from your local cafe. For morning tea you grab
 
 Assuming this a daily ritual on work days you're spending roughly $540 a month on micro spending.
 
-More information on microspending **[HERE](https://www.0ldmate.com/posts/finance/Microspending 38099ad5ed4d4caeb563aa46bbe76a7a/)**
+More information on microspending **[HERE](https://www.0ldmate.com/posts/finance/Microspending%2038099ad5ed4d4caeb563aa46bbe76a7a/)**
 
 ### Conclusion
 
