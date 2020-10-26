@@ -30,7 +30,7 @@ So, every week Bob spends:
 - $30 on lunch
 - $40 on dinner
 
-asdfThat works out to $136 per week or $7,072 per year in microspending. That already is a huge number, but if we take that one step further and say over the next 30 years Bob takes the money he'd normally spend on these small purchases and invests it into an ETF (exchange traded fund) at a conservative 6% per year, he would end up with just under $600,000 ($599,099) as a nice retirement nest egg.
+That works out to $136 per week or $7,072 per year in microspending. That already is a huge number, but if we take that one step further and say over the next 30 years Bob takes the money he'd normally spend on these small purchases and invests it into an ETF (exchange traded fund) at a conservative 6% per year, he would end up with just under $600,000 ($599,099) as a nice retirement nest egg.
 
 ![/img/Microspending%2038099ad5ed4d4caeb563aa46bbe76a7a/Untitled.png](/img/Microspending%2038099ad5ed4d4caeb563aa46bbe76a7a/Untitled.png)
 
