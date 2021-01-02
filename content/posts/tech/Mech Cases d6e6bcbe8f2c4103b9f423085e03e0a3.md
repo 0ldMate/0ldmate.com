@@ -52,7 +52,7 @@ The weight of a mechanical keyboard is often tied to quality of the materials (t
 
 > Source: [https://www.reddit.com/r/MechanicalKeyboards/comments/f0asp9/512_brass_weight/](https://www.reddit.com/r/MechanicalKeyboards/comments/f0asp9/512_brass_weight/)
 
-### Mounting option
+### Mounting Option
 
 There are multiple mounting variants that alter the feel and sound of each keypress. Most of the time each keyboard will have a specific mount style in the design, however certain boards like the [Constellation board from AEBoards](https://www.aeboards.com/constellation) has multiple in the design to allow you to try different mount styles with the same keyboard. 
 
