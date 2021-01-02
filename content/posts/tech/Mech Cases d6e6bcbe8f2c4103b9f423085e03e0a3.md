@@ -54,7 +54,7 @@ The weight of a mechanical keyboard is often tied to quality of the materials (t
 
 ### Mounting Option
 
-There are multiple mounting variants that alter the feel and sound of each keypress. Most of the time each keyboard will have a specific mount style in the design, however certain boards like the [Constellation board from AEBoards](https://www.aeboards.com/constellation) has multiple in the design to allow you to try different mount styles with the same keyboard. 
+There are multiple mounting variants that alter the feel and sound of each keypress. Most of the time each keyboard will have a specific mount style in the design, however certain boards like the [Constellation board from AEBoards](https://www.aeboards.com/constellation) has multiple in the design to allow you to try different mount styles with the same keyboard. For more information on mounting options, check out this **[Cheat Sheet](https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/)**. 
 
 ![/img/Mech%20Cases%20d6e6bcbe8f2c4103b9f423085e03e0a3/Untitled%205.png](/img/Mech%20Cases%20d6e6bcbe8f2c4103b9f423085e03e0a3/Untitled%205.png)
 
