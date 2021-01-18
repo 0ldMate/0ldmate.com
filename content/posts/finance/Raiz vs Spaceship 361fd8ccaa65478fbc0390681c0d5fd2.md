@@ -16,7 +16,7 @@ I should note the reason I didn't add Commsec Pocket into this experiment was be
 
 ### The Fun Stuff
 
-So if you're after a TL:DR, Spaceship wins by a long shot not only investment performance but in fees as well, simply because there isn't any under 5k. Here are the graphs, Spaceship on the left and Raiz on the right. 
+So if you're after a TL:DR, Spaceship wins by a long shot not only investment performance but in fees as well, simply because there isn't any under 5k. Here are the graphs, Spaceship on the right and Raiz on the left. 
 
 ![/img/Raiz%20vs%20Spaceship%20361fd8ccaa65478fbc0390681c0d5fd2/Untitled%201.png](/img/Raiz%20vs%20Spaceship%20361fd8ccaa65478fbc0390681c0d5fd2/Untitled%201.png)
 
