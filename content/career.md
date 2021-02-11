@@ -6,10 +6,15 @@ type = "single"
 
 ## Experience
 
+### Triskele Labs
+
+**Security Consultant**
+(February 2021 - Present)
+
 ### Pure Security
 
-**Associate Security Consultant**
-(March 2020 - Present)
+[**Associate Security Consultant**](../posts/career/puresecurity)
+(March 2020 - January 2021)
 
 
 ### Multigate Medical Products
