@@ -4,7 +4,7 @@ date: "2021-09-23"
 tags: ["blueteam"]
 ---
 
-> I am by no means a security professional. Well.. technically I am, but, this isn't advice. This is just written for entertainment purposes. Don't sue me.
+> I am by no means a security professional. Well.. technically I am, but, this isn't advice. This is just written for entertainment purposes. Don't sue me. Also, pictures of our Australian native bees to break up the wall of text.
 
 I recently had a friend of mine get his discord account hacked, I helped guide him through what process he should take to resolve and more importantly prevent this in the future. I thought this would be a great topic to go through and write up so in future I can just send over this blog post, so here we are. 
 
