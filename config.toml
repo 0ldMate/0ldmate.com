@@ -14,7 +14,7 @@ tag = "tags"
   defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
 
   # Show reading time in minutes for posts
   showReadingTime = true
@@ -30,7 +30,7 @@ tag = "tags"
 [languages]
   [languages.en]
     title = "0ldMate's Page"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "0ldMate's Blog"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -62,10 +62,14 @@ tag = "tags"
         identifier = "Career"
         name = "Career"
         url = "/career"
-#      [[languages.en.menu.main]]
-#        identifier = "finance"
-#        name = "Finance"
-#        url = "/posts/finance"
+      [[languages.en.menu.main]]
+        identifier = "finance"
+        name = "Finance"
+        url = "/posts/finance"
+      [[languages.en.menu.main]]
+        identifier = "keyboards"
+        name = "Keyboards"
+        url = "/posts/keyboards"
       [[languages.en.menu.main]]
         identifier = "Tech"
         name = "Tech"
