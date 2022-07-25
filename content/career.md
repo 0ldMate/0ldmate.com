@@ -65,6 +65,8 @@ Build a Macropad With Me - Tuskcon 2022
 
 ## Volunteering
 
+BSides Canberra 2021 Volunteer
+
 [Fortnightly plasma donor at Lifeblood Australia](../posts/donating-blood-c37fcd7e4b17438db3ce3defef327e1b)
 
 [Hacker Blood Drive](https://hackerblooddrive.com)
