@@ -15,7 +15,7 @@ As far as I’m aware, I’m the only one in the group currently.
 
 So far, I’ve received 3 valid submissions in the form and have sent out 2 Pentester Lab subscriptions and 1 Hack the Box sub subscriptions. 
 
-Alongside these 3 submissions I’ve had a number of friends who have been encouraged by this initiative to become regular donors. One friend who went so far as to start up their own Red25 group in their workplace.
+Alongside these 3 submissions I’ve had a number of friends who have been encouraged by this initiative to become regular donors. One friend who went so far as to start up their own Red25 group in their workplace. I also received many messages from people offering to give money to the cause, thank you to everyone who did. Although I didn't take it as I'm happy to fund it myself, I appreciate the offers.
 
 ### Conclusion
 
