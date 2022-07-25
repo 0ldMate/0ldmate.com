@@ -19,21 +19,21 @@ type = "single"
 ### Pure Security
 
 [**Associate Security Consultant**](../posts/career/puresecurity)
-(March 2020 - January 2021)
+(March 2020 - January 2021) - 60,000 + Super (50,000 during 3 month probation)
 
 
 ### Multigate Medical Products
 
 [**Security Administrator**](../posts/career/multigate)
-(September 2018 - March 2020)
+(September 2018 - March 2020) - 60,000 + Super
 
 [**IT Support Officer**](../posts/career/multigate)
-(July 2017 - September 2018)
+(July 2017 - September 2018) - 45,000 + Super
 
-### Gilroy Catholic College
+### Gilroy Catholic College 
 
 [**Information Technology Support**](../posts/career/gilroy)
-(December 2014 - December 2016)
+(December 2014 - December 2016) - 35,000 + Super (internship)
 
 
 ## Education
@@ -59,10 +59,15 @@ A Capture the Flag challenge designed within the Elastic Stack to teach players 
 
 An Elastic Stack set up that can be parsed personal financial data to be manipulated and displayed in a friendly manner.
 
+## Presentations
+
+Build a Macropad With Me - Tuskcon 2022
 
 ## Volunteering
 
 [Fortnightly plasma donor at Lifeblood Australia](../posts/donating-blood-c37fcd7e4b17438db3ce3defef327e1b)
+
+[Hacker Blood Drive](https://hackerblooddrive.com)
 
 RSPCA Bushfire Appeal Fundraiser Organiser
 
