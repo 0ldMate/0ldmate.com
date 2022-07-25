@@ -3,7 +3,7 @@ title: "Hacker Blood Drive"
 date: "2022-07-25"
 ---
 
-After a year of running the “Hacker Blood Drive”, here’s a blog talking about the progress it’s made so far. Honestly, this blog is mainly to promote it further. But it’ll be interesting to write up nonetheless. 
+After a year of running the “[Hacker Blood Drive](https://hackerblooddrive.com)”, here’s a blog talking about the progress it’s made so far. Honestly, this blog is mainly to promote it further. But it’ll be interesting to write up nonetheless. 
 
 Shortly after launching, I created a Red25 group with the idea that if people joined it we could track the donations. Here is the amount of donations in the last 12 months.
 
