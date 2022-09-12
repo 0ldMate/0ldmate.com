@@ -63,6 +63,8 @@ An Elastic Stack set up that can be parsed personal financial data to be manipul
 
 Build a Macropad With Me - Tuskcon 2022
 
+Beginner Soldering Workshop - BSides Melbourne 2022
+
 ## Volunteering
 
 BSides Canberra 2021 Volunteer
