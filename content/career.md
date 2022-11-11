@@ -8,12 +8,12 @@ type = "single"
 
 ### Triskele Labs
 
-**Security Consultant**
+[**Security Consultant**](../posts/career/triskele)
 (February 2021 - Present)
 
-### Mountain Keyboards
+### Mtn Kbd (Mountain Keyboards)
 
-[**Owner**](https://mountainkeyboards.com/)
+[**Owner**](../posts/career/mtnkbd)
 (July 2021 - Present)
 
 ### Pure Security
