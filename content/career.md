@@ -6,15 +6,20 @@ type = "single"
 
 ## Experience
 
-### Triskele Labs
+### Hack the Box
 
-[**Security Consultant**](../posts/career/triskele)
-(February 2021 - Present)
+[**Sales Engineer**](../posts/career/hackthebox)
+(April 2023 - Present)
 
 ### Mtn Kbd (Mountain Keyboards)
 
 [**Owner**](../posts/career/mtnkbd)
 (July 2021 - Present)
+
+### Triskele Labs
+
+[**Security Consultant**](../posts/career/triskele)
+(February 2021 - April 2023) - 100,000 + Super (90,000 starting salary with an additional 10,000 added after first 18 months)
 
 ### Pure Security
 
@@ -34,7 +39,6 @@ type = "single"
 
 [**Information Technology Support**](../posts/career/gilroy)
 (December 2014 - December 2016) - 35,000 + Super (internship)
-
 
 ## Education
 
