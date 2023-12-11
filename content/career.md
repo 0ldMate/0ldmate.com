@@ -65,13 +65,15 @@ An Elastic Stack set up that can be parsed personal financial data to be manipul
 
 ## Presentations
 
+Hack The Box Offensive Workshop - ADFCSA 2023
+
 Build a Macropad With Me - Tuskcon 2022
 
-Beginner Soldering Workshop - BSides Melbourne 2022
+Beginner Soldering Workshop - BSides Melbourne 2022 & 2023
 
 ## Volunteering
 
-BSides Canberra 2021 Volunteer
+BSides Canberra 2021 & 2023 Volunteer
 
 [Fortnightly plasma donor at Lifeblood Australia](../posts/donating-blood-c37fcd7e4b17438db3ce3defef327e1b)
 
