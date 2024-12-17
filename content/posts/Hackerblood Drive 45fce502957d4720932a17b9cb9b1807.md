@@ -1,6 +1,7 @@
 ---
 title: "Hacker Blood Drive"
 date: "2022-07-25"
+tags: ["blood donation"]
 ---
 
 After a year of running the “[Hacker Blood Drive](https://hackerblooddrive.com)”, here’s a blog talking about the progress it’s made so far. Honestly, this blog is mainly to promote it further. But it’ll be interesting to write up nonetheless. 

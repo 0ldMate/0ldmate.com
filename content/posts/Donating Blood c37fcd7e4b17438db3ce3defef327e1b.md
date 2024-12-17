@@ -1,6 +1,7 @@
 ---
 title: "Blood Donation Data"
 date: "2021-10-05"
+tags: ["blood donation"]
 ---
 
 Donating blood has been a huge part of my life over the last few years. My first donation was through a school program and after a few years off I picked it back up and have become a regular plasma donor now, having just crossed 100 donations a few weeks ago. I thought it would be fun to look back at the data I can pull from my previous donations and share it.

@@ -1,6 +1,7 @@
 ---
 title: "Hacker Blood Drive 2023"
 date: "2023-12-11"
+tags: ["blood donation"]
 ---
 
 After two years of running the **[Hacker Blood Drive](https://hackerblooddrive.com/)**, here’s a blog talking about the progress it’s made so far. Shortly after launching, I created a Red25 group with the idea that if people joined it we could track the donations. This year at some point, the team developed into two members now. Look out Lifeblood, we’re going to put you out of business.
